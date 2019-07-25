@@ -1,0 +1,7 @@
+C:\Users\Dell\source\repos\Area de circulo y cuadrado\Area de circulo y cuadrado\bin\Debug\Area de circulo y cuadrado.exe.config
+C:\Users\Dell\source\repos\Area de circulo y cuadrado\Area de circulo y cuadrado\bin\Debug\Area de circulo y cuadrado.exe
+C:\Users\Dell\source\repos\Area de circulo y cuadrado\Area de circulo y cuadrado\bin\Debug\Area de circulo y cuadrado.pdb
+C:\Users\Dell\source\repos\Area de circulo y cuadrado\Area de circulo y cuadrado\obj\Debug\Area de circulo y cuadrado.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\Area de circulo y cuadrado\Area de circulo y cuadrado\obj\Debug\Area de circulo y cuadrado.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\Area de circulo y cuadrado\Area de circulo y cuadrado\obj\Debug\Area de circulo y cuadrado.exe
+C:\Users\Dell\source\repos\Area de circulo y cuadrado\Area de circulo y cuadrado\obj\Debug\Area de circulo y cuadrado.pdb
